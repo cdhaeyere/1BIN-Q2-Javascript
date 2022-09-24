@@ -1,0 +1,16 @@
+{
+  "name": "exercice2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Corentin D'haeyere",
+  "license": "ISC",
+  "description": "Semaine 1 Séance 1 Exercice 2",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {}
+}
